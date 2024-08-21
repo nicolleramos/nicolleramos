@@ -1,14 +1,11 @@
 <div align="center">
   
-  ### Oiie! Eu sou a Nick.
-  
-<img src="https://img.pokemondb.net/sprites/sword-shield/normal/pangoro.png">
-</div>
-
+  ### Oie! Eu sou a Nick.  
 <br>
- 19y aspiring software engineer.
-<br>
- currently studying the 3rd semester of the technical course in Systems Development. 
+ 19 she/her <br>
+ aspiring software engineer |
+ backend & cybersecurity |
+ ads (1/5)
 <br>
 
 <div align="center">
