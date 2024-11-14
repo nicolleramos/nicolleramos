@@ -4,7 +4,7 @@
 <br>
  19 she/her <br>
  aspiring software engineer |
- backend & cybersecurity |
+ backend & Dados |
  ads (1/5)
 <br>
 
