@@ -1,42 +1,29 @@
 <div align="center">
-  
-  ### Oie! Eu sou a Nick.  
-<br>
- 19 she/her <br>
- aspiring software engineer |
- backend & Dados |
- ads (1/5)
-<br>
+  <img src="https://i.pinimg.com/originals/36/7d/f0/367df01d2c37abcf570751716db92971.gif" width="45%" />
+</div>
 
 <div align="center">
-  <br>
-
-#### main skills
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
-#### studying in this moment
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolleramos&bg_color=0d1119&color=C9E6F0&line=78B3CE&point=fcfcfc&area=true&hide_border=true" width="80%" />
 </div>
 
-<br>
-<div align="center">
-  <a href="https://github.com/nicolleramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolleramos&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolleramos&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+<div align="center" style="display: inline-block;">
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolleramos&show_icons=true&count_private=true&hide_border=true&title_color=C9E6F0&icon_color=78B3CE&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolleramos&layout=compact&hide_border=true&title_color=78B3CE&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
 </div>
 
-##
-
-<div align="center" >
-  <a href="https://www.linkedin.com/in/nicolle-ramos-828891273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"> 
+  <a href="nicolleramosbatist9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
+![English](https://img.shields.io/badge/-English-0D1117?style=for-the-badge&logo=language&labelColor=0D1117)&nbsp;
