@@ -1,3 +1,6 @@
+<div align="center">
+  <p>💻🦇</p>
+</div>
 <table align="center">
   <tr>
     <td style="width: 45%;">
