@@ -1,7 +1,14 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/36/7d/f0/367df01d2c37abcf570751716db92971.gif" width="45%" />
-</div>
+<table align="center">
+  <tr>
+    <td style="width: 45%;">
+      <img src="https://i.pinimg.com/originals/36/7d/f0/367df01d2c37abcf570751716db92971.gif" />
+    </td>
+  </tr>
+</table>
 
+<details>
+  <summary>𝚌𝚘𝚍𝚎 𝚜𝚝𝚊𝚝𝚜</summary>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolleramos&bg_color=0d1119&color=C9E6F0&line=78B3CE&point=fcfcfc&area=true&hide_border=true" width="80%" />
 </div>
@@ -14,6 +21,8 @@
 <div align="center"> 
   <a href="nicolleramosbatist9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+</details>
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
