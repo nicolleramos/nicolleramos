@@ -20,6 +20,3 @@
 [![Static Badge](https://img.shields.io/badge/linkedin-black)]()
 [![Static Badge](https://img.shields.io/badge/instagram-black)]()
 </div>
-
-Hi! My name is Nicolle, and I currently live in Brazil. Working as a Data Engineer is my goal. I am always looking to improve my skills through studies, practice, and research. I feel comfortable designing my own data pipelines and applying them in practice during data projects. This year, I plan to work on more open-source projects to contribute to the community and refactor all my old projects using the new practices I have been learning to enhance my portfolio.
-
