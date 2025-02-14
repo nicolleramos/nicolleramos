@@ -15,8 +15,7 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/website-black)]()
-[![Static Badge](https://img.shields.io/badge/twitter-black)]()
-[![Static Badge](https://img.shields.io/badge/linkedin-black)]()
-[![Static Badge](https://img.shields.io/badge/instagram-black)]()
+[![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/luffywings) 
+[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/nicolleramosbatista/)
+[![Static Badge](https://img.shields.io/badge/instagram-black)](https://www.instagram.com/luffywings/)
 </div>
