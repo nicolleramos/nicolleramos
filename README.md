@@ -1,9 +1,9 @@
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=2300&hide_border=true">
   
 <img
         align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=2300&hide_border=true"
         alt="Github Stats"
       />
 </p>
