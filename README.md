@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,sqlite,nodejs,ts,js,html,css,php,cpp,anaconda,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sqlite,nodejs,ts,js,html,css,php,cpp,anaconda,git,vscode)](https://skillicons.dev)
 </div>
 
 <div align="center">
