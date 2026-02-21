@@ -1,3 +1,4 @@
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/35889b38-8c08-49d5-a3fe-de56fd3594cc" />
 <h4 align="center">data scientist Intern @ Itaú 🧡 | AI & robotics | Analytics | SQL | Python | AWS</h4>
 
 ###
@@ -32,7 +33,7 @@
 ###
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
@@ -50,16 +51,12 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/nicolleramosbatista" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo"  />
-    <img width="12" />
-  </a>
   <a href="https://medium.com/@nicolleramosbatist9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="40" alt="medium logo"  />
     <img width="12" />
   </a>
-  <a href="nicolleramosbatist9@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo"  />
+    <a href="https://dev.to/luffywings" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="40" alt="devto logo"  />
     <img width="12" />
   </a>
 </div>
