@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Undergraduate student in Data Science at the Faculty of Technology of the State of São Paulo (FATEC), currently in the 2nd semester, and I am directing my focus of studies towards the field of Data Engineering.<br>My passion for technology motivates me to continuously learn and to be open to new experiences and challenges.</p>
+<p align="left">Undergraduate student in Data Science at the Faculty of Technology of the State of São Paulo (FATEC), currently in the 2nd semester, and I am directing my focus of studies towards the field of Data Engineering.<br>My passion for technology motivates me to continuously learn and to be open to new experiences and challenges. Graduated in Systems Development Technician at ETEC | English B1 </p>
 
 ###
 
