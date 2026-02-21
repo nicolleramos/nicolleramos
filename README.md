@@ -1,21 +1,51 @@
+<h4 align="center">data scientist Intern @ Itaú 🧡 | AI & robotics | Analytics | SQL | Python | AWS</h4>
+
+###
+
+<p align="left">Undergraduate student in Data Science at the Faculty of Technology of the State of São Paulo (FATEC), currently in the 2nd semester, and I am directing my focus of studies towards the field of Data Engineering.<br>My passion for technology motivates me to continuously learn and to be open to new experiences and challenges.</p>
+
+###
+
+<h4 align="center">skills in development</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="40" alt="insomnia logo"  />
+</div>
+
+###
+
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=212830&icon_color=FFFFFF&cache_seconds=2300&hide_border=true">
-  
-<img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolleramos&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212830&cache_seconds=2300&hide_border=true"
-        alt="Github Stats"
-      />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4uyzx1etd608nh88qj8noyuaw&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
 </p>
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sqlite,nodejs,ts,js,html,css,php,cpp,anaconda,git,vscode)](https://skillicons.dev)
-</div>
+###
 
 <div align="center">
-
-[![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/luffywings) 
-[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/nicolleramosbatista/)
-[![Static Badge](https://img.shields.io/badge/instagram-black)](https://www.instagram.com/luffywings/)
+  <a href="www.linkedin.com/in/nicolleramosbatista" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@nicolleramosbatist9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
+  </a>
+  <a href="nicolleramosbatist9@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
 </div>
+
+###
