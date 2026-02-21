@@ -1,4 +1,5 @@
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/35889b38-8c08-49d5-a3fe-de56fd3594cc" />
+<div align="center">
+<img src="https://64.media.tumblr.com/4d2184b59ca40061091d746418868958/2654b7463cff99ab-a8/s75x75_c1/122fc7a85afe4332edf6cb15c50111f7dec702dc.gifv"/></div>
 <h4 align="center">data scientist Intern @ Itaú 🧡 | AI & robotics | Analytics | SQL | Python | AWS</h4>
 
 ###
@@ -29,8 +30,6 @@
 
 <h4 align="center">"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."</h4>
 <h3 align="center">MALCOLM X</h3>
-
-###
 
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
