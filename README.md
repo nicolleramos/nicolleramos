@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">Undergraduate student in Data Science at the Faculty of Technology of the State of São Paulo (FATEC), currently in the 2nd semester, and I am directing my focus of studies towards the field of Data Engineering.<br>My passion for technology motivates me to continuously learn and to be open to new experiences and challenges.</p>
+<p align="center">Undergraduate student in Data Science at the Faculty of Technology of the State of São Paulo (FATEC), currently in the 2nd semester, and I am directing my focus of studies towards the field of Data Engineering.<br>My passion for technology motivates me to continuously learn and to be open to new experiences and challenges.</p>
 
 ###
 
-<h4 align="center">skills in development</h4>
+<h3 align="center">skills in development</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="center">"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."</h4>
+<p align="center">"Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."</p>
 <h3 align="center">MALCOLM X</h3>
 
 <picture align="center">
@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<h4 align="center">connect with me </h4>
+<h3 align="center">connect with me </h3>
 
 ###
 
