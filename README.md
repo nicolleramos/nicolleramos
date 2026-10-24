@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://64.media.tumblr.com/4d2184b59ca40061091d746418868958/2654b7463cff99ab-a8/s75x75_c1/122fc7a85afe4332edf6cb15c50111f7dec702dc.gifv"/></div>
-<h4 align="center">data scientist Intern @ Itaú 🧡 | AI & robotics | Analytics | SQL | Python | AWS</h4>
+<h4 align="center">data analyst Intern @ Itaú 🧡 | AI & robotics | Analytics | SQL | Python | AWS</h4>
 
 ###
 
